@@ -1,1 +1,1 @@
-git lab practice
+project objectives
